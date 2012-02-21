@@ -1,1 +1,6 @@
-target
+/target/
+/work/
+*.iml
+*.idea
+*.iws
+.DS_Store
